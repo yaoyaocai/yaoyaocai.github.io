@@ -15,7 +15,7 @@ picture: assets/images/profile_cyy.jpg
 resume: true
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
-resume-external: false
+resume-local: true
 resume: assets/Yaoyao_Cai Resume.pdf
 
 url: https://sergiokopplin.github.io/indigo
