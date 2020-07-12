@@ -18,7 +18,7 @@ resume: true
 resume-external: false
 resume-pdf: assets/Resume.pdf
 
-url: https://yaoyaocai.github.io
+#url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
