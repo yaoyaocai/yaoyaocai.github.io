@@ -16,7 +16,7 @@ resume: true
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
 resume-external: false
-resume-local: assets/Resume.pdf
+resume-: assets/Resume.pdf
 
 #url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
