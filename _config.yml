@@ -53,19 +53,27 @@ github: yaoyaocai?tab=repositories
 # lanyrd: mylanyrd
 email: cai.yao@northeastern.edu
 
+#authors:
+  #johndoe:
+    #name: John Doe
+    #bio: A Man who travels the world eating noodles
+    #external-image: false
+    #picture: assets/images/profile.jpg
+    #twitter: johndoe
+  #jamesfoster:
+    #name: James Foster
+    #bio: A Man who develops software with coffee
+    #external-image: false
+    #picture: assets/images/james.jpg
+    #twitter: jamesfoster
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  yaoyaocai:
+    name: Yaoyao Cai
+    bio: Enjoy the little things in life
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/profile_cyy.jpg
+
+    
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
